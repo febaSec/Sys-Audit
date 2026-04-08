@@ -13,17 +13,17 @@
 ## Visual Tour
 ### Interactive Main Menu
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ce5bd5b0-906f-4aed-98d6-a253c35a0219" width="800" alt="Main Menu">
+  <img width="912" height="341" alt="image" src="https://github.com/user-attachments/assets/32f170af-f770-4c6e-96d3-bb13560fb1d6" />
 </p>
 
 ### Comprehensive System & Network Audit
 <p align="center">
-<img width="578" height="558" alt="image" src="https://github.com/user-attachments/assets/2c67bc57-f0ab-49fb-910b-0c26038c7956" />
+  <img width="610" height="880" alt="image" src="https://github.com/user-attachments/assets/6c7146c7-4a46-4dbf-9778-fb20386acab4" />
 </p>
 
 ### Automated Security Scoring
 <p align="center">
-<img width="525" height="439" alt="image" src="https://github.com/user-attachments/assets/d4e0528f-2d38-4916-b0b2-c74d9da290db" />
+  <img width="572" height="451" alt="image" src="https://github.com/user-attachments/assets/707dbcf0-ed07-4af2-aef7-a08d94f25df6" />
 </p>
 
 
